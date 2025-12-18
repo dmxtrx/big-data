@@ -1,6 +1,6 @@
 # Big Data
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black) !
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
 
 **Stack:** `PySpark` (RDD/DataFrame), `Kafka`, `Spark Streaming`, `MLlib`.
 
